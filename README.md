@@ -1,13 +1,16 @@
-<h1 align="center">ようせい 🌸 | Full-stack Dev × Pro Wrestler</h1>
+<h1 align="center">ようせい 🌸 | 限界大学生</h1>
 <p align="center">
-  🧑‍💻 情報系学生/Streamlitアプリで時系列解析/応用情報技術者
+  🧑‍💻 情報系学生 / Streamlitアプリで時系列解析 / 応用情報技術者
 </p>
 
 ---
 
 ## 🔧 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=rails,react,python,streamlit,js,html,css,tailwind,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rails,aws,python,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=chatgpt,idea&theme=dark" />
+</p>
 
 ---
 
