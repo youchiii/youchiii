@@ -1,4 +1,4 @@
-<h1 align="center">ようせい 🌸 | 限界大学生</h1>
+<h1 align="center">ようせい  | 限界大学生</h1>
 <p align="center">
   🧑‍💻 情報系学生 / Streamlitアプリで時系列解析 / 応用情報技術者
 </p>
