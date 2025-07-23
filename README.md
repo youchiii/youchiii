@@ -1,21 +1,46 @@
-## Hi there 👋
+<h1 align="center">ようせい 🌸 | Full-stack Dev × Pro Wrestler</h1>
+<p align="center">
+  🧑‍💻 情報系学生/Streamlitアプリで時系列解析
+</p>
 
-<!--
-**youchiii/youchiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youchiii&layout=compact&theme=onedark
-)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://skillicons.dev/icons?i=rails,react,python,streamlit,js,html,css,tailwind,github,vscode" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youchiii&layout=compact&theme=onedark)]
-(https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youchiii&show_icons=true&theme=onedark&count_private=true&hide_rank=false&hide=contribs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youchiii&layout=compact&theme=onedark" height="180"/>
+</div>
+
+---
+
+## 📈 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=youchiii&theme=onedark&hide_border=true" />
+</p>
+
+---
+
+## 📝 Recent Activities (自動更新)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🔗 Links
+
+- 🐦 [Twitter / X（技紹介・日常）](https://x.com/your_handle)
+- 🌐 [ポートフォリオ](https://yourportfolio.com)
+- 📬 [メール](mailto:your.email@example.com)
+
+---
+
+> 🤖 Powered by `anuraghazra/github-readme-stats`, `skillicons.dev`, `streak-stats`
