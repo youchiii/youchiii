@@ -1,6 +1,6 @@
 <h1 align="center">ようせい 🌸 | Full-stack Dev × Pro Wrestler</h1>
 <p align="center">
-  🧑‍💻 情報系学生/Streamlitアプリで時系列解析
+  🧑‍💻 情報系学生/Streamlitアプリで時系列解析/応用情報技術者
 </p>
 
 ---
@@ -32,14 +32,6 @@
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
-
-## 🔗 Links
-
-- 🐦 [Twitter / X（技紹介・日常）](https://x.com/your_handle)
-- 🌐 [ポートフォリオ](https://yourportfolio.com)
-- 📬 [メール](mailto:your.email@example.com)
 
 ---
 
